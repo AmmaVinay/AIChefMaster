@@ -22,7 +22,7 @@ const jobData = [
     ],
     skills: [
       "Proficiency in HTML5, CSS3, and JavaScript (ES6+)",
-      "Experience with frontend frameworks/libraries such as React, Angular, or Vue.js",
+      "Experience with frontend frameworks/libraries such as React",
       "Strong understanding of responsive design and mobile-first development",
       "Familiarity with CSS preprocessors like SASS or LESS",
       "Experience with version control systems like Git",

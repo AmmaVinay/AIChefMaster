@@ -24,13 +24,12 @@ const jobData = [
       "Stay up-to-date with emerging technologies and industry best practices"
     ],
     skills: [
-      "Basic understanding of one or more backend programming languages (e.g., Python, Node.js)",
-      "Familiarity with backend frameworks (e.g., Flask, Express.js)",
+      "Basic understanding of one or more backend programming languages (e.g., Python)",
+      "Familiarity with backend frameworks (e.g., Flask)",
       "Understanding of SQL and NoSQL databases (e.g., MySQL, MongoDB)",
       "Basic knowledge of RESTful APIs",
       "Understanding of version control systems (e.g., Git)",
       "Familiarity with containerization technologies (e.g., Docker)",
-      "Basic understanding of cloud platforms (e.g., AWS, Google Cloud Platform, Azure)",
       "Strong problem-solving skills",
       "Basic knowledge of security best practices",
       "Familiarity with CI/CD pipelines"
@@ -43,7 +42,6 @@ const jobData = [
     qualifications: [
       "Previous internship experience in a backend development role",
       "A portfolio showcasing previous work and projects",
-      "Knowledge of microservices architecture is a plus"
     ],
     benefits: [
       "Hands-on experience with real-world projects",

@@ -1,5 +1,6 @@
 import React from "react";
 import JobDescriptionCard from "../JobDescriptionCard";
+
 const jobData = [
   {
     title: "AI Engineer",
@@ -28,7 +29,11 @@ const jobData = [
       "Familiarity with version control systems (e.g., Git)",
       "Experience with data visualization tools (e.g., Matplotlib, Seaborn)",
       "Strong analytical and problem-solving skills",
-      "Basic understanding of cloud platforms (e.g., AWS, Google Cloud Platform, Azure)"
+      "Understanding Fine Tuning LL model",
+      "Designing and developing NLP applications",
+      "Using effective text representation techniques and classification algorithms",
+      "Training and evaluating models"
+      
     ],
     experience: [
       "Currently pursuing or recently completed a degree in Computer Science, Data Science, Engineering, or a related field",
